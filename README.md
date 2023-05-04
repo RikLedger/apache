@@ -1,18 +1,43 @@
-Ansible role which helps to install and configure Apache web server.
+Role Name
+=========
+
+A brief description of the role goes here.
+
+Requirements
+------------
+
+Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For>
+
+Role Variables
+--------------
+
+A description of the settable variables for this role should go here, including any variables that are>
+
+Dependencies
+------------
+
+A list of other roles hosted on Galaxy should go here, plus any details in regards to parameters that >
+
+Example Playbook
+----------------
+
+Including an example of how to use your role (for instance, with variables passed in as parameters) is>
+
+    - hosts: servers
+      roles:
+         - { role: username.rolename, x: 42 }
+
+License
+-------
+
+BSD
+
+Author Information
+------------------
+
+An optional section for the role authors to include contact information, or a website (HTML is not all>
 
 
 
-The configuraton of the role is done in such way that it should not be
 
-necessary to change the role for any kind of configuration. All can be
-
-done either by changing role parameters or by declaring completely new
-
-configuration as a variable. That makes this role absolutely universal.
-
-See the examples below for more details.
-
-
-
-Please report any issues or send PR.
 
